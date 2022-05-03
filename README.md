@@ -15,6 +15,6 @@ This project involves the use of K-Means Clustering to find the best accommodati
 - Present findings on a map. (Using Folium/Seaborn)
 ### The end result looks something like this:
 
-![high](https://drive.google.com/file/d/1FS042oiCYX_DRzE74bVUYCHhj2HZOTVn/view?usp=sharing)
+![high](https://raw.githubusercontent.com/anubhabch10/EDA_GEOLOCATIONAL-DATA/main/1.jpg)
 
 
